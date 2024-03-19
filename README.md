@@ -2,7 +2,11 @@
 
 ## Description:
 
-This is a rudimentary Convolutional Neural Network designed to classify two classes of skin lesions: benign or malignant. This utilizes data from the International Skin Imaging Collaboration. 
+This is a rudimentary Convolutional Neural Network designed to classify two classes of skin lesions: benign or malignant. This utilizes data from the International Skin Imaging Collaboration. This was originally built using Kaggle. 
+
+### Kaggle Project
+
+https://www.kaggle.com/code/bryanqtnguyen/derminsight-cnn
 
 ### Dataset:
 
