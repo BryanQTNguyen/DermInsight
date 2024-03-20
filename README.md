@@ -2,11 +2,19 @@
 
 ## Description:
 
-This is a rudimentary Convolutional Neural Network designed to classify two classes of skin lesions: benign or malignant. This utilizes data from the International Skin Imaging Collaboration. This was originally built using Kaggle. 
+This is a rudimentary Convolutional Neural Network designed to classify two classes of skin lesions: benign or malignant. This utilizes data from the International Skin Imaging Collaboration. This was originally built using Kaggle, and the model imported into Github is one of the finalized versions. An engineering notebook is also linked which tracks the version changes and history. This has been successfully implemented into an andoird applicaiton to demonstrate its accessiblity. 
 
-### Kaggle Project
+The model averaged approximately a **80% to 90%** accuracy on validation and test datasets. 
+
+This model will be updated as much as possible. At least, once a month. 
+
+### Kaggle Project:
 
 https://www.kaggle.com/code/bryanqtnguyen/derminsight-cnn
+
+### Engineering Notebook:
+
+https://docs.google.com/document/d/1O36dfkg_asUHnv_G6l_Ch3yvkHiB4Dq1dvB7kZ6VKDo/edit?usp=sharing
 
 ### Dataset:
 
